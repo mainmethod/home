@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Library/Documentation/User Information.localized/.localized'
+let g:netrw_dirhist_2='/private/var/log/com.apple.launchd.peruser.0'
+let g:netrw_dirhist_3='/Users/codeninja/.config'
+let g:netrw_dirhist_4='/System/Library/Extensions/webcontentfilter.kext'

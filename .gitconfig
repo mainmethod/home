@@ -1,0 +1,6 @@
+[user]
+	name = Coder
+	email = rob.c.farrell@gmail.com
+[alias]
+    l = log --date-order --all --graph --pretty=format:'%C(red)%h%Creset %C(yellow bold)%an%Creset %C(green)%ar%Creset %C(red bold)%d%Creset%s'
+    lf = log --date-order --all --graph --numstat --pretty=format:'%C(red)%h%Creset %C(yellow bold)%an%Creset %C(green)%ar%Creset %C(red bold)%d%Creset%s'
